@@ -4,10 +4,21 @@
   justify-content: center;
   align-items: center;
   }
+#canvas{
+  margin: 0px 0px 35px 450px;
+}
+
+#boton{
+  align-items: center;
+  justify-content: center;
+  margin: 30px 10px 400px 500px;
+  width: 350px;
+  height: 150px;
+}
 .titulo{
   font-family: 'Lobster', cursive;
   text-align: center;
-  color:rgb(163, 163, 163);
+  color:rgb(166, 232, 244);
   font-size: 56px;
 }
 .body_principal {
